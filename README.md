@@ -1,2 +1,3 @@
-# JustAJokes
-This is litterally not a malware, just some prank :3
+# Prankware
+just a bunch of prankware!
+
